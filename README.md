@@ -15,3 +15,7 @@ npm install @angular-architects/native-federation@16
 npx nx g @angular-architects/native-federation:ng-add
 
 Project name (press enter for default project) - host
+
+npx nx serve host -o
+
+npx nx build host
