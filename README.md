@@ -19,3 +19,9 @@ Project name (press enter for default project) - host
 npx nx serve host -o
 
 npx nx build host
+
+## Deployed application
+
+https://nx16-native-federation-by-commands-hs.netlify.app/
+
+https://nx16-native-federation-by-commands-hs.netlify.app/remoteEntry.json
