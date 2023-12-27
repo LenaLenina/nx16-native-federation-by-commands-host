@@ -11,3 +11,7 @@ npm install --save-dev @nx/angular@16
 npx nx generate @nx/angular:application --name=host --directory=projects/host --projectNameAndRootFormat=as-provided --no-interactive --style=scss
 
 npm install @angular-architects/native-federation@16
+
+npx nx g @angular-architects/native-federation:ng-add
+
+Project name (press enter for default project) - host
